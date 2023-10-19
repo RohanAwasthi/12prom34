@@ -1,0 +1,7 @@
+site_name: Prometheustest123
+
+nav:
+  - Home: README.md
+
+plugins:
+  - techdocs-core
